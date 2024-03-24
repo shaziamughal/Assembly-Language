@@ -1,2 +1,2 @@
 # Assembly-Language
-Source codes of Labs are uploaded here!
+Source codes of Computer Organization and Assembly Language (COAL) Labs are uploaded here!
